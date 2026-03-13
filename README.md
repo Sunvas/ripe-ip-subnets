@@ -1,4 +1,4 @@
-# ip-subnets
+# ripe-ip-subnets
 
 ### English
 List of IPv4 Subnets groupped by country. All ip addresses were parsed and groupped by `country` attribute from `db.ripe.net`.
